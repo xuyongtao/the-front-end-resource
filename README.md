@@ -14,3 +14,7 @@ http://www.datatables.net 强大的表格
 http://v3.bootcss.com 最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布局、移动设备优先的 WEB 项目。
 
 http://blog.wpjam.com/m/jquery-json-province-city/ 使用 jQuery 插件 CitySelect 实现省市联动效果
+
+http://momentjs.com/ 强大的日期格式处理
+
+http://aralejs.org/calendar/ 强大的datepick
