@@ -18,3 +18,5 @@ http://blog.wpjam.com/m/jquery-json-province-city/ 使用 jQuery 插件 CitySele
 http://momentjs.com/ 强大的日期格式处理
 
 http://aralejs.org/calendar/ 强大的datepick
+
+http://fex-team.github.io/webuploader/getting-started.html 上传插件
